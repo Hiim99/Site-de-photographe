@@ -21,7 +21,15 @@ body {
 .top-header .name {
 	font-size: 26px;
 }
-
+h3 {
+	font-size: 16px;
+}
+.service h3{
+	font-size: 28px;
+}
+.title{
+	font-size: 28px;
+}
 .nav ul {
 	display: flex;
 	list-style-type: none;
@@ -102,7 +110,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #57570A;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
